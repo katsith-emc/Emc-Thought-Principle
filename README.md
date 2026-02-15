@@ -463,8 +463,8 @@ The principle describes three distinct modes of thought observation:
 ## Links & Resources
 
 ### Full Paper (PDF)
-- **Zenodo**: [DOI Link - Add your Zenodo DOI here]
-- **GitHub**: [PDF Repository - Add your GitHub PDF link here]
+- **Zenodo**: [https://doi.org/10.5281/zenodo.18627275](https://doi.org/10.5281/zenodo.18627275)
+- **GitHub**: [https://github.com/katsith-emc/e_mc_thought_principle2026](https://github.com/katsith-emc/e_mc_thought_principle2026)
 
 ### Author
 **Katsutoshi Mayumi**  
@@ -482,7 +482,14 @@ Sculptor of palm-sized artworks
 
 ## License
 
-[Add your license information here - e.g., CC BY 4.0, MIT, etc.]
+This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
 
 ---
 
