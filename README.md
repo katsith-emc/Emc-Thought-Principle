@@ -4,7 +4,7 @@ A conceptual and mathematical framework describing the generation, transformatio
  
 E = mcη·ρᵢ + Δ
  
-- **m** — Mass (structural conviction): the internal core of a thought's certainty
+- **m** — Mass (structural conviction): the internal core of a thought's certainty; reconceptualized as a generated, two-state configurational structure (m_local, m_field) — see the Addendum to Paper 16
 - **c** — Velocity: the speed at which a thought unfolds or transitions
 - **η** — Purity: convergence/selection force, or boundary permeability — the axis in use should be stated explicitly (see Paper 16)
 - **ρᵢ** — Information density: the internal fullness of a not-yet-unfolded structure
@@ -17,6 +17,12 @@ This repository is a **browsing/discovery index**. **The authoritative, citable 
 ## Papers
  
 Newest first. Each entry follows the format: Title / Abstract / DOI / Keywords.
+
+### Addendum to Paper 16 — Revisiting the Status of m
+**Abstract:** Revisits Paper 16's classification of m as settled. A structural comparison with mass generation via chiral symmetry breaking prompts a re-reading of Papers 4–5, showing that m was reconceptualized as a generated, two-state configurational structure (m_local, m_field) — never re-engaged by Papers 13, 14, or 16's own audit. Reclassifies m as an inheritance gap, on the same basis as η.
+**DOI:** https://doi.org/10.5281/zenodo.21332679
+**Keywords:** structural conviction, m_local/m_field, inheritance gap
+**License:** CC BY 4.0
  
 ### Paper 16 — Provisional Parameter Inventory
 **Abstract:** A cross-review of the definitional states of all parameters across Papers 1–15. Resolves η's multi-axis lineage — convergence/selection force (Papers 1, 3, 9) versus boundary permeability (Papers 10, 13) — as successive vantage points rather than contradictions, and leaves lnI's status (independent variable, dependent variable, or excluded from the dynamical reduction) formally undetermined.
@@ -108,7 +114,8 @@ Newest first. Each entry follows the format: Title / Abstract / DOI / Keywords.
 3. **Abstracts stay under ~3 lines.** Full detail lives at the DOI.
 4. **η must be disambiguated.** Any paper discussing η should state which axis is meant: convergence/selection force, or boundary permeability.
 5. **lnI's status is provisional.** Any reference to lnI should note that its place within the equation remains formally undetermined (Paper 16), not treat it as settled.
+6. **m must be disambiguated.** Any paper discussing m should state which state is meant: m_local (individual memory) or m_field (diffused into personality, intuition, and culture) — see the Addendum to Paper 16.
+ 
 ## License
  
 All papers are published under CC BY 4.0. See each DOI page for details.
- 
